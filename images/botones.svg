@@ -40,6 +40,12 @@
        width="294.62564"
        height="56.505221"
        id="rect19197" />
+    <rect
+       x="277.83893"
+       y="506.20258"
+       width="294.62564"
+       height="56.505222"
+       id="rect19197-3" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -50,14 +56,14 @@
        id="rect31"
        width="174.61848"
        height="20.236008"
-       x="6.7332768"
-       y="112.28886"
+       x="19.382679"
+       y="56.021149"
        inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       transform="matrix(0.60356186,0,0,0.60356186,-160.56599,-196.67047)"
+       transform="matrix(0.60356186,0,0,0.60356186,-147.91659,-252.93818)"
        id="text19195"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19197);fill:#000000;fill-opacity:1;stroke:none"
        inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton1.png"
@@ -65,17 +71,50 @@
        inkscape:export-ydpi="96"><tspan
          x="277.83984"
          y="542.30942"
-         id="tspan82089"><tspan
+         id="tspan9252"><tspan
            style="font-family:Sterilict;-inkscape-font-specification:'Sterilict, Normal'"
-           id="tspan82087">subscribe !</tspan></tspan></text>
+           id="tspan9250">subscribe !</tspan></tspan></text>
     <rect
        style="opacity:0.5832;fill:#fffefb;fill-opacity:1;stroke:none;stroke-width:1.32878;stroke-opacity:1"
        id="rect7264"
        width="171.6503"
        height="5.0940576"
-       x="8.2388964"
-       y="112.84566"
+       x="20.888298"
+       y="56.57795"
        inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.91341;stroke-opacity:1"
+       id="rect31-6"
+       width="174.61848"
+       height="20.236008"
+       x="16.901995"
+       y="138.88644"
+       inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.60356186,0,0,0.60356186,-147.22226,-170.07287)"
+       id="text19195-7"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19197-3);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="277.83984"
+         y="542.30942"
+         id="tspan9256"><tspan
+           style="font-family:Sterilict;-inkscape-font-specification:'Sterilict, Normal'"
+           id="tspan9254">read more</tspan></tspan></text>
+    <rect
+       style="opacity:0.5832;fill:#fffefb;fill-opacity:1;stroke:none;stroke-width:1.32878;stroke-opacity:1"
+       id="rect7264-5"
+       width="171.6503"
+       height="5.0940576"
+       x="18.40761"
+       y="139.44327"
+       inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton2.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
   </g>

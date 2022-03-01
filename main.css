@@ -1,6 +1,8 @@
 #title {
-    background-color: rgb(56, 110, 161);
-
+    background-image: unset;
+    background-image: url('images/stuniform.jpg');
+    height: vh;
+    padding: 2rem;
 }
 
 #titlelog {
@@ -10,6 +12,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 0%;
+
 
 }
 
@@ -37,6 +40,12 @@
 
 }
 
+#container4 {
+
+    text-align: center;
+    color:rgb(223, 197, 83);
+}
+
 #imagearea {
 
     text-align: center;
@@ -53,9 +62,10 @@
   
     height: 120px;
     display: block;
-    margin-left: left;
+    margin-left: auto;
     margin-right: auto;
     margin-top: 0%;
+    
 
 }
 
@@ -64,7 +74,10 @@
     background-color: rgb(56, 110, 161) ;
     color: white;
     font-size: 12px;
-
+    background-image: unset;
+    background-image: url('images/stuniform.jpg');
+    height: vh;
+    padding: 2rem;
 }
 
 
@@ -129,5 +142,6 @@
     margin-left: auto;
     margin-right: auto;   
 
+    
 }
 
