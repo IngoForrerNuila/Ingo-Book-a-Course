@@ -1,0 +1,133 @@
+#title {
+    background-color: rgb(56, 110, 161);
+
+}
+
+#titlelog {
+    
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+
+}
+
+#join {
+    height: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#container2 {
+    text-align: center;
+    color:rgb(223, 197, 83);
+    
+
+}
+
+#container3{
+    background-color: rgb(59, 59, 59);
+    text-align: center;
+    color:rgb(223, 197, 83)
+    
+    
+
+}
+
+#imagearea {
+
+    text-align: center;
+    color:rgb(223, 197, 83);
+    
+    
+}
+
+.body {
+    background-color: rgb(0, 0, 0);
+
+}
+#footerlog{
+  
+    height: 120px;
+    display: block;
+    margin-left: left;
+    margin-right: auto;
+    margin-top: 0%;
+
+}
+
+#footercon {
+    
+    background-color: rgb(56, 110, 161) ;
+    color: white;
+    font-size: 12px;
+
+}
+
+
+.klingtitle {
+    color:  rgb(223, 197, 83);
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+}
+
+#slogan {
+    font-weight: bold;
+    font-size: 20px;
+    color: white
+
+}
+#navbarcon  {
+    background-color: rgb(59, 59, 59) ;
+    color: white;
+    font-size: 12px;
+}
+
+
+#navtext1 {
+    font-weight: bold;
+    color:  rgb(223, 197, 83);
+    font-size: 16px;
+    text-align: center;
+
+}
+#navbarcon1 {
+    color:  rgb(255, 255, 255);
+    font-size: 18px;
+    text-align: center;
+
+}
+
+#spock {
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    
+    
+ 
+
+}
+
+#worf {
+
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+
+}
+
+#narek {
+
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+
+}
+

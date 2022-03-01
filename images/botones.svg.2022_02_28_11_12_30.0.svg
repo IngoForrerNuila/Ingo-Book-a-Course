@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="botones.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.49260384"
+     inkscape:cx="384.69047"
+     inkscape:cy="569.42309"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="297.06187"
+       y="515.97317"
+       width="52.829779"
+       height="50.439706"
+       id="rect21918" />
+    <rect
+       x="277.83893"
+       y="506.20259"
+       width="80.949397"
+       height="72.047535"
+       id="rect19197" />
+    <rect
+       x="277.83893"
+       y="506.20258"
+       width="67.519216"
+       height="62.519208"
+       id="rect19197-3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d4aa00;fill-opacity:1;stroke:none;stroke-width:1.25265;stroke-opacity:1"
+       id="rect31"
+       width="66.156944"
+       height="22.892075"
+       x="72.461304"
+       y="106.61915"
+       inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:0.58319967;fill:#fffefb;fill-opacity:1;stroke:none;stroke-width:0.868301;stroke-opacity:1"
+       id="rect7264"
+       width="64.792175"
+       height="5.7626753"
+       x="73.129608"
+       y="107.24904"
+       inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.65378182,0,0,0.65378182,-107.28359,-230.38422)"
+       id="text19195"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19197);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan19199"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Star Trek Future';-inkscape-font-specification:'Star Trek Future, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">join</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.65378182,0,0,0.65378182,-78.458014,-230.41659)"
+       id="text19195-6"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19197-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="277.83984"
+         y="544.19922"
+         id="tspan7690" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.64671855,0,0,0.64671855,-85.804981,-232.96964)"
+       id="text21916"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21918);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="/home/oppdev2021/Documents/projects/Ingo-Book-a-Course/images/boton1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan21920"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Star Trek Future';-inkscape-font-specification:'Star Trek Future, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">now</tspan></text>
+  </g>
+</svg>
