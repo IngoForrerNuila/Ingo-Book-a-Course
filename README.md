@@ -1,5 +1,7 @@
 # Ingo-Book-a-Course
 Book a Course
+*Readme Chronicles*
+by Ingo :-)
 
 Here I have created the very first version of a special school dedicated to teach the most popular intergalatic languages from the Star Trek Universe.
 In this website we wanted to make a single designe for all the different pages: index, form and confirmation screen. During the process new ideas came to 
