@@ -3,6 +3,7 @@
     background-image: url('images/stuniform.jpg');
     height: vh;
     padding: rem;
+    background-color: rgb(56, 110, 161);
 }
 
 #titlelog {
