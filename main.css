@@ -43,16 +43,22 @@
     background-color: rgb(59, 59, 59);
     text-align: center;
     color:rgb(223, 197, 83);
-    font-size: 22px;
+    font-size: 18px;
     font-weight: bold;
 
+
+}
+
+#subinstructions {
+    color:rgb(223, 197, 83);
+    font-size: 16px;
 
 }
 
 #congratstext1 {
     color:rgb(255, 255, 255);
     font-size: 22px;
-    font-weight: bold;
+    font-weight: lighter;
 
 }
     
@@ -116,6 +122,14 @@
     background-color: rgb(59, 59, 59) ;
     color: white;
     font-size: 12px;
+}
+
+#navtextcon {
+    font-weight: bold;
+    color:  rgb(223, 197, 83);
+    font-size: 18px;
+    text-align: center;
+
 }
 
 

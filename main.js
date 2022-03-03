@@ -6,6 +6,7 @@ const password = document.getElementById('password')
 const form = document.getElementById('form')
 const errorElement = document.getElementById('error')
 
+
 form.addEventListener('submit', (e) => {
    let messages = []
 
@@ -32,6 +33,7 @@ form.addEventListener('submit', (e) => {
      if (messages.length > 0){
         e.preventDefault()
         errorElement.innerText = messages.join(', ')
+        
 
     }
 
@@ -50,6 +52,8 @@ function passvalues() {
     localStorage.setItem("lastName", document.getElementById("lname").value)
     localStorage.setItem("lselect", document.getElementById("lselect").value)
     localStorage.setItem("language", document.getElementById("language").value)
+    localStorage.setItem("email", document.getElementById("email").value)
+    localStorage.setItem("uname", document.getElementById("uname").value)
 
 }
 
