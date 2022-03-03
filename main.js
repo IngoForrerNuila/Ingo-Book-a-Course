@@ -11,9 +11,15 @@ form.addEventListener('submit', (e) => {
    let messages = []
 
 
-    if (fname.value === '' || fname.value == null, lname.value === '' || lname.value == null){
-        messages.push('Double check your First and Last name')
-        alert("Please provide your first and last name");
+    if (fname.value === '' || fname.value == null){
+        messages.push('Provide your First name')
+        alert("Please provide your first name");
+        
+    }
+
+    if (lname.value === '' || lname.value == null){
+        messages.push('Provide your Last name')
+        alert("Please provide your last name");
         
     }
 
